@@ -1,0 +1,1 @@
+gcsenovemberretake.blade.php
